@@ -1,0 +1,18 @@
+- type: gameMapPool
+  id: DefaultMapPool
+  maps:
+  - Amber
+  - Bagel
+  - Box
+  - Cog
+  - Core
+  - Fland
+  #- Gate
+  - Loop
+  - Marathon
+  - Meta
+  - Oasis
+  - Omega
+  - Packed
+  - Reach
+  #- Train
